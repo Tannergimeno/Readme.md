@@ -17,4 +17,4 @@ The object of class Table live and die with class CoffeeShop and it cannot stand
 ## Coffee Shop Diagram
 https://drive.google.com/drive/folders/19KmRmj_MJdtpUsXc9OeZZVmhNWJUx-rr
 
-This is the link of the picture of coffee Shop Diagram that we created.
+This is the link to the picture of the coffee shop UML diagram that we created.
